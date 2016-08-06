@@ -1,1 +1,1 @@
-<?php require("assignment2/index.html"); ?>
+<?php require("index.html"); ?>
