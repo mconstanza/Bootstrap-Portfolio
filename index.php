@@ -1,0 +1,1 @@
+<?php require("assignment2/index.html"); ?>
