@@ -245,7 +245,7 @@ textarea{
 	float: left;
 	font-size: 110%;
 	color: white;
-	height: 250px;
+	height: 15%;
 	margin-bottom: 5%;
 
 }
@@ -265,6 +265,7 @@ textarea{
 	z-index: 2;
 	background-color: #4aaaa5;
 	width: 100%;
+	height: 20%;
 	padding: 18px 1px 18px 1px;
 	text-align: center;
 	bottom: 80px;
