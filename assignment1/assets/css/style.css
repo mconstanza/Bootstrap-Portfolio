@@ -374,12 +374,13 @@ textarea{
 		margin-bottom: 5%;
 		margin-right: 10%;
 		padding: 0;
+		padding-bottom: 5%;
 		text-align: center;
 	}
 
 	.icon {
 		width: 10%;
-		padding-bottom: 5%;
+		padding-bottom: ;
 		margin-left: 5%;
 		margin-right: 5%;
 	}
